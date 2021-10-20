@@ -22,7 +22,7 @@ https://github.com/sdcch8/infra_sp2.git
 '''
 cd infra_sp2 
 '''
- 
+
 Запустите docker-compose: 
 
 '''
